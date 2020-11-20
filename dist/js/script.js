@@ -1879,6 +1879,8 @@ __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(clearImmediate) {/* harmony import */ var core_js_modules_web_immediate__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/web.immediate */ "./node_modules/core-js/modules/web.immediate.js");
 /* harmony import */ var core_js_modules_web_immediate__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_immediate__WEBPACK_IMPORTED_MODULE_0__);
 
+
+
 window.addEventListener('DOMContentLoaded', () => {
   //  Tabs
   const tabs = document.querySelectorAll('.tabheader__item'),
